@@ -1,4 +1,4 @@
- Uma to do list feita com javascript puro  tanto para criar as tarefas como para simular um banco de dados , o intuito desse projeto foi reafirmar conceitos de js
+ Uma to do list feita com javascript puro  tanto para criar as tarefas como para simular um banco de dados , o intuito desse projeto foi rever conceitos de js
   
   o projeto foi feito com base nesse video : https://www.youtube.com/watch?v=oGEYs52ZuHY&t=3120s
  
